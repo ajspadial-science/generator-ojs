@@ -1,0 +1,15 @@
+{
+  "name": "generator-ojs-plugin",
+  "version": "0.1.0",
+  "description": "OJS plugin scaffolding generator",
+  "file": [
+    "generators/app",
+    "generators/block"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^0.20.3"
+  }
+}
